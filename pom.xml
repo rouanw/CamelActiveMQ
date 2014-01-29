@@ -34,7 +34,6 @@
             <version>5.5.0</version>
         </dependency>
 
-
         <!-- logging -->
         <dependency>
             <groupId>org.slf4j</groupId>
